@@ -1,2 +1,2 @@
 
-xrayr newboard 
+newboard 
